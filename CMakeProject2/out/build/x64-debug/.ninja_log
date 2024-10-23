@@ -1,0 +1,5 @@
+# ninja log v5
+2	125	7514077287160776	build.ninja	ed05852acb5e420d
+15	340	7514076846402295	CMakeFiles/CmakeProject2.dir/src/main.cpp.obj	89830bf61658bc07
+340	521	7514076848081566	CmakeProject2.exe	7e0112f9f46d7319
+18	338	7514076846382308	CMakeFiles/CmakeProject2.dir/src/matrix.cpp.obj	e88809619330d518
